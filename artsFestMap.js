@@ -1,7 +1,7 @@
 // Create map background --------------------
 const map = L.map('map', {
 	crs: L.CRS.Simple,
-	minZoom: 1.5,
+	minZoom: 1,
 	zoomControl: false,
 	attributionControl: false
 });
